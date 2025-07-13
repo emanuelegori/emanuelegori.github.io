@@ -2,7 +2,7 @@
 
 🧑‍💻 Copywriter, blogger e smanettone tech. Aiuto utenti e micro aziende a cavarsela nel mondo dell’informatica, con un occhio di riguardo a **Linux**, **software libero** e **soluzioni self-hosted**.
 
-Uso **Linux Ubuntu**, **Debian sui miei VPS di produzione**, amo l’**open source** e, quando posso, dico no ai colossi del web. Se c’è un’alternativa decentralizzata o etica, la provo. Se si può fare con Docker, la auto-ospito.
+Uso **Linux Ubuntu**, **Debian su VPS di produzione**, amo l’**open source** e, quando posso, dico no ai colossi del web. Se c’è un’alternativa decentralizzata o etica, la provo. Se si può fare con Docker, la auto-ospito.
 
 🇬🇧 Hi there! I'm Emanuele — a copywriter, blogger, and tech tinkerer.  
 I help individuals and micro businesses navigate the world of IT, with a focus on **Linux**, **free and open source software**, and **self-hosted solutions**.
