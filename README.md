@@ -17,7 +17,7 @@ And if it’s worth sharing, I’ll probably blog about it.
 ## 🛠️ Cosa faccio
 
 - ✍️ Scrivo articoli e guide tech su [emanuelegori.uno](https://emanuelegori.uno)
-- 🔧 Offro assistenza informatica base a utenti privati e microimprese
+- 🔧 Offro assistenza informatica a utenti privati e microimprese
 - 🐧 Promuovo software FOSS con un approccio chiaro e pratico
 - 💬 Parlo di etica digitale, Fediverso e indipendenza tecnologica
 
@@ -27,7 +27,7 @@ And if it’s worth sharing, I’ll probably blog about it.
 
 - 📝 Blog: [emanuelegori.uno](https://emanuelegori.uno)
 - 🐘 Mastodon: [@emanuelegori@mastodon.uno](https://mastodon.uno/@emanuelegori)
-- 📫 Contatti via blog o Fediverso (niente social aziendali, grazie!)
+- 📫 Contatti via blog o Fediverso
 
 ---
 
