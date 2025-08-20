@@ -17,8 +17,7 @@ And if it’s worth sharing, I’ll probably blog about it.
 ## 🛠️ Cosa faccio
 
 - ✍️ Scrivo articoli e guide tech su [emanuelegori.uno](https://emanuelegori.uno)
-- 🔧 Offro assistenza informatica a utenti privati e microimprese
-- 🐧 Promuovo software FOSS con un approccio chiaro e pratico
+- 🐧 Promuovo software FOSS
 - 💬 Parlo di etica digitale, Fediverso e indipendenza tecnologica
 
 ---
