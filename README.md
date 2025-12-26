@@ -26,6 +26,7 @@ And if it’s worth sharing, I’ll probably blog about it.
 
 - 📝 Blog: [emanuelegori.uno](https://emanuelegori.uno)
 - 🐘 Mastodon: [@emanuelegori@mastodon.uno](https://mastodon.uno/@emanuelegori)
+- 🐞 Forgejo: [https://git.emanuelegori.uno](https://git.emanuelegori.uno)
 - 📫 Contatti via blog o Fediverso
 
 ---
