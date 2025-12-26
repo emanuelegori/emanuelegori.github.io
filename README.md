@@ -16,7 +16,8 @@ And if it’s worth sharing, I’ll probably blog about it.
 
 ## 🛠️ Cosa faccio
 
-- ✍️ Scrivo articoli e guide tech su [emanuelegori.uno](https://emanuelegori.uno)
+- ✍️ Scrivo articoli e guide tech su: [emanuelegori.uno](https://emanuelegori.uno)
+- 🐞 Utilizzo Forgejo per i miei progetti personali: [https://git.emanuelegori.uno](https://git.emanuelegori.uno)
 - 🐧 Promuovo software FOSS
 - 💬 Parlo di etica digitale, Fediverso e indipendenza tecnologica
 
