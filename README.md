@@ -5,10 +5,10 @@ Italian blogger.
   I write about technology and share projects on my blog.                                                                           
   I observe politics with a critical eye.                                                                                           
                                                                                                                                     
-  Daily driver: Linux. Production: Debian on a VPS. Whenever possible, I prefer federated and self-hosted alternatives over         
-  centralized platforms.                                                                                                            
+  Daily driver: Linux. Production: Debian on a VPS. Whenever possible, I prefer federated and self-hosted alternatives over centralized platforms.                                                                                                            
                                                                                                                                     
-  → **[me.emanuelegori.uno](https://me.emanuelegori.uno)** — bio and contacts                                             
+  aggiungere la dicitura proverbio  a il proverbio ?
+  **[me.emanuelegori.uno](https://me.emanuelegori.uno)** — bio and contacts                                             
    
   ---                                                                                                                               
                   
